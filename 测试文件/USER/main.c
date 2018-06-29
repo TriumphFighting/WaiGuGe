@@ -20,7 +20,7 @@ extern u8 Down_Flag;
 
 u8 RaiseLegFlag=1;
 u8 GoHomeFlag=1;
-
+//I am Chinese,i love my motherland
 int main(void)
 {   
     delay_ms(100);
